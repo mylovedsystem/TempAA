@@ -8,6 +8,16 @@
         "id": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4111,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mylovedsystem.github.io/TempAA/annotations/temp-canvas-1-temp.json",
+            "label": {
+              "none": ["Temp"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/paintings",
