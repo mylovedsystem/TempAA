@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mylovedsystem.github.io/TempAA/temp/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "TEMP" ] },
+    "items": [
+      {
+        "id": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4111,
+        "items": [
+          {
+            "id": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.youtube.com/watch?v=TsOGA22dMT8",
+                    "duration": 4111
+                },
+                "target": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
