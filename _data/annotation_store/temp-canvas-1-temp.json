@@ -12,25 +12,17 @@
         "supplementing",
         "commenting"
       ],
-      "body": [
-        {
-          "type": "TextualBody",
-          "value": "lalalaa",
-          "format": "text/plain",
-          "purpose": "commenting"
-        },
-        {
-          "type": "TextualBody",
-          "value": "Temp",
-          "format": "text/plain",
-          "purpose": "tagging"
-        }
-      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "lalalaa",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
       "target": {
         "source": "https://mylovedsystem.github.io/TempAA/temp/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
-          "t": "1402.0,1430.0"
+          "t": "51240.0,53400.0"
         }
       }
     }
